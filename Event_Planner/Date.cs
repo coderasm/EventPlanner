@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DateProg
+namespace Event_Planner
 {
   class Date
   {
