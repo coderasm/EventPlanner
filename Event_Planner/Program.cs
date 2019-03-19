@@ -10,6 +10,7 @@ namespace Event_Planner
   {
     static void Main(string[] args)
     {
+
     }
   }
 }
